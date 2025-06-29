@@ -41,12 +41,6 @@ I'm a curious explorer driven by **innovation and impact**. Whether it's buildin
 
 ---
 
-🎯 **My Philosophy**
-
-*"Jack of all trades, specialist in making waves."*  
-I experiment relentlessly, but my goal is always purposeful innovation.
-
----
 
 ## 📈 GitHub Stats
 
