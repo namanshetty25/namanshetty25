@@ -104,7 +104,3 @@ I’m currently a Sophomore pursuing Electrical Engineering at **IIT Indore**, w
 - 🐦 [X/Twitter](https://x.com/namanshetty2510)
 
 🤝 Always open to collaborations, open-source contributions, and brainstorming bold ideas!
-
----
-_"The best way to predict the future is to invent it."_  
-— Alan Kay
