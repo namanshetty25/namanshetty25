@@ -104,3 +104,8 @@ I’m currently a Sophomore pursuing Electrical Engineering at **IIT Indore**, w
 - 🐦 [X/Twitter](https://x.com/namanshetty2510)
 
 🤝 Always open to collaborations, open-source contributions, and brainstorming bold ideas!
+
+👀 **Profile Views:**
+
+
+![Profile Views](https://count.getloli.com/get/@namanshetty25?theme=3d-num)
