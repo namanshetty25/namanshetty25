@@ -98,14 +98,21 @@ I’m currently a Sophomore pursuing Electrical Engineering at **IIT Indore**, w
 </div>
 
 --- -->
+
+📊 **GitHub Stats**
+
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanshetty25&show_icons=true&theme=radical&title_color=ff79c6&icon_color=50fa7b&text_color=f8f8f2&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namanshetty25&layout=compact&theme=radical&title_color=ff79c6&text_color=f8f8f2&bg_color=0d1117)
+
+👀 **Profile Views:**
+
+
+![Profile Views](https://count.getloli.com/get/@namanshetty25?theme=3d-num)
+
 📬 **Let’s Connect**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/naman-v-shetty)
 - 💻 [GitHub](https://github.com/namanshetty25)
 - 🐦 [X/Twitter](https://x.com/namanshetty2510)
 
 🤝 Always open to collaborations, open-source contributions, and brainstorming bold ideas!
-
-👀 **Profile Views:**
-
-
-![Profile Views](https://count.getloli.com/get/@namanshetty25?theme=3d-num)
