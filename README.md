@@ -75,6 +75,9 @@ I’m currently a Sophomore pursuing Electrical Engineering at **IIT Indore**, w
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge&logo=qdrant&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4A90E2?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Deployment & UI
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
